@@ -1,0 +1,21 @@
+.footer {
+    background-color: blue;
+    padding-bottom: 5px;
+}
+
+.contact a{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+}
+
+.btn-outline-success {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: blue;
+}
+
