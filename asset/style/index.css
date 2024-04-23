@@ -19,14 +19,10 @@
     border-color: blue;
 }
 
-/* style.css */
-
-/* style.css */
-
-/* style.css */
-
 .navbar {
-    z-index: 1;
+    background-color: yellow ;
+    padding-top: 0%;
+    padding-bottom: 0%;
 }
 
 .section-container {
