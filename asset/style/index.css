@@ -1,10 +1,10 @@
 .footer {
-    background-color: blue;
+    background-color: yellow;
     padding-bottom: 5px;
 }
 
 .contact a{
-    color: rgb(255, 255, 255);
+    color: black;
     font-size: 25px;
 }
 
@@ -18,4 +18,29 @@
     background-color: rgb(255, 255, 255);
     border-color: blue;
 }
+
+/* style.css */
+
+/* style.css */
+
+/* style.css */
+
+.navbar {
+    z-index: 1;
+}
+
+.section-container {
+    position: relative;
+    z-index: 0;
+}
+
+.section-container .Profile {
+    margin-top: 80px; /* Tambahkan margin atas yang cukup besar untuk menghindari overlay dengan navbar */
+}
+
+.section-container .Profile img {
+    max-width: 200px;
+    height: auto;
+}
+
 
